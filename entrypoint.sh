@@ -1,3 +1,3 @@
 #!/bin/sh
 
-figlet Hello World
+figlet -f slant Hello World
